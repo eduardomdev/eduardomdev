@@ -6,7 +6,7 @@
   </a>
 </div>
 <br>
-Sou desenvolvedor de software Frontend, focado em Angular e todo seu ecossistema!
+Desenvolvedor Frontend Senior , especialista em Angular e todo seu ecossistema!
 
 - 👩‍💻 Estudante de Analise e Desenvolvimento de Sistemas
 
