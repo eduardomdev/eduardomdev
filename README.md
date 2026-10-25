@@ -8,8 +8,6 @@
 <br>
 Desenvolvedor Frontend Senior , especialista em Angular e todo seu ecossistema!
 
-- 👩‍💻 Estudante de Analise e Desenvolvimento de Sistemas
-
 <br>
 
 <div>
